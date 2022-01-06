@@ -1,4 +1,4 @@
-.border-left{
+ .border-left{
     font-style: inherit;
     font-size: 70px;
     border-left:6px solid ;
@@ -31,5 +31,5 @@
         background-color:lightgreen ;
         margin-top: 25px;
         color: white;
-        font-weight: 900px;
+        font-weight: 850px;
   }
