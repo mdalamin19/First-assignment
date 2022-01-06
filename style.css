@@ -125,7 +125,7 @@ height: 450px;
     }
     footer p{
         font-size: 30px;
-        font-weight: 120px;
+        font-weight: 90px;
         text-align: center;
         background-color: lightseagreen;
         color: white;
@@ -133,3 +133,5 @@ height: 450px;
         height: 150px;
         padding-top: 60px;
     }
+   
+
