@@ -33,3 +33,82 @@
         color: white;
         font-weight: 850px;
   }
+  .mission{
+      font-size: 60px;
+     margin-left:140px;
+ }
+
+ .flxiable-container{
+    
+     display: flex;
+     margin-bottom: 20px;
+     margin-right: 10px;
+
+ }
+ .first{
+     margin-left:20px;
+ }
+
+ .middle-part{
+     width: 20px;
+     padding-left:5px;
+     margin-left: 130px;
+ }
+
+.left-part img{
+    width: 130px;
+    padding-top:10px;
+    margin-left:90px;
+    position:static;
+ }
+
+  .left-part{
+    box-shadow: 7px 7px 40px white;
+    width: 30%;
+    margin-left: 140px;
+    height:available;
+    margin-right: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: gainsboro;
+    border-collapse: collapse;
+}
+.mid-part img{
+
+    width: 130px;
+    padding-top:10px;
+    margin-left:90px;
+    position:static;
+    
+}
+
+.mid-part{
+    box-shadow: 7px 7px 40px white;
+    width: 30%;
+    margin-left: 140px;
+    height:available;
+    margin-right: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rosybrown;
+    border-collapse: collapse;}
+
+ .right-part img{
+       
+    width: 130px;
+    padding-top: 10px;
+    margin-left: 90px;
+    position:static;
+    }
+
+    .right-part{
+    box-shadow: 7px 7px 40px white;
+    width: 30%;
+    margin-left: 140px;
+    height:available;
+    margin-right: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: palevioletred;
+    border-collapse: collapse;}
+    
