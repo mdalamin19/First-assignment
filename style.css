@@ -26,10 +26,10 @@
  }
     .link-button{
         text-decoration: none;
-        padding: 10px 25px;
+        padding: 10px 24px;
         border-radius: 12px;
         background-color:lightgreen ;
-        margin-top: 25px;
+        margin-bottom: 50px;
         color: white;
         font-weight: 850px;
   }
@@ -41,7 +41,7 @@
  .flxiable-container{
     
      display: flex;
-     margin-bottom: 20px;
+     margin-bottom: 100px;
      margin-right: 10px;
 
  }
@@ -110,3 +110,16 @@
     border-radius: 10px;
     background-color: palevioletred;
     border-collapse: collapse;}
+
+    .half-width{
+width: 50%;
+padding: 20px;
+margin-left: 40px;
+height: 200px;
+    }
+    .half-width img{
+        width: 80%;
+        padding-top:40px;
+        margin-left: 100px;
+        height: 450px;
+    }
