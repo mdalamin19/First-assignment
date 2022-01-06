@@ -1,0 +1,35 @@
+.border-left{
+    font-style: inherit;
+    font-size: 70px;
+    border-left:6px solid ;
+    border-image: linear-gradient(red,orange);
+    border-image-slice: 1;
+}
+.orange-color{
+    color: orange;}
+
+    .flxiable-container{
+        display:flex;
+        margin-bottom: 100px;
+    }
+
+.first-step{
+    width: 50%;
+    padding-left: 150px;
+
+}
+
+    .image-first img{
+        width: 250%;
+        padding-top: 40px;
+        margin-left: 30px;
+ }
+    .link-button{
+        text-decoration: none;
+        padding: 10px 25px;
+        border-radius: 12px;
+        background-color:lightgreen ;
+        margin-top: 25px;
+        color: white;
+        font-weight: 900px;
+  }
